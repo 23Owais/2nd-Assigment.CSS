@@ -1,0 +1,147 @@
+#h2{
+    padding-left: 40%;
+    background-color: #fad76e;
+    color: aliceblue;
+    width: 100%;
+}
+#hr1{
+    border: 2px dotted black;
+    width: 300px;
+    margin-top: -15px;
+}
+#hr2{
+    border: 2px dotted black;
+    width: 200px;
+    margin-top: -16px;
+}
+#one{
+    background-color:#fad76e ;
+    height: 950px;
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.a{
+    background-color: red;
+    color: white;
+    height: 250px;
+   max-width: 20%;
+    text-align: center;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 50px;
+        overflow: hidden;
+
+}
+.b{
+    background-color: blue;
+    color: white;
+    height: 250px;
+   max-width: 20%;
+    text-align: center;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 50px;
+        overflow: hidden;
+
+}
+
+.c{
+    background-color: green;
+    color: white;
+    height: 250px;
+   max-width: 20%;
+    text-align: center;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 50px;
+        overflow: hidden;
+
+}
+
+.d{
+    background-color: violet;
+    color: white;
+    height: 250px;
+   max-width: 20%;
+    text-align: center;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 50px;
+        overflow: hidden;
+
+}
+
+#image1{
+   
+    height: 200px;
+   
+    
+    
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#image2{
+   
+    height: 200px;
+   
+    
+    
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 63px;
+}
+#image3{
+   
+    height: 200px;
+   
+    
+    
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 68px;
+}
+#image4{
+   
+    height: 200px;
+   
+    
+    
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 68px;
+}
+.img{
+    height: 250px;
+    border-radius: 10px;
+    max-width: 300px;
+}
+
+h1{
+    
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    
+
+    
+}
+p{
+display: block;
+    margin-top: -15px;
+text-shadow:5px 6px 15px black;
+
+height: 150px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bolder;
+
+}
+.hr{
+    margin-top: 25px;
+    border: 2px solid black;
+}
